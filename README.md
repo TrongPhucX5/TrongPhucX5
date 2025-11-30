@@ -3,8 +3,8 @@
   <h1>Hi there, I'm <a href="https://github.com/TrongPhucX5">TrongPhucX5</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Lập+trình+viên+đa+năng;Code:+C%2B%2B,+Java,+Python,+JS,+Kotlin;Framework:+Django,+Firebase;Công+cụ:+Git" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Xin+chao,+Minh+la+TrongPhucX5;Code:+Cpp,+Java,+Python,+JS,+Kotlin;Framework:+Django,+Firebase;Cong+cu:+Git" alt="Typing SVG" />
+</a>
 </div>
 
 ---
